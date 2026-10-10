@@ -1,0 +1,6 @@
+{
+  "name": "ArcFlow",
+  "description": "A modern personal command center and calendar by ArcShift Studios with expressive typography, smart planning, tasks, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
